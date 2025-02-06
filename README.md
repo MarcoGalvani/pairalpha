@@ -1,3 +1,3 @@
 # stablealpha
 
-Diffusion model for prediction of stock prices.
+Code for pair trading selection, training, prediction and backtesting.
